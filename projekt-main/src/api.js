@@ -1,4 +1,4 @@
-const APP_ID = '8bcd9b73';
+const APP_ID = '1kBAOo20wAdlk6hJmQywGVI9';
 const APP_KEY = '5f0af532428848e659348af67cf80df8';
 
 export const fetchRecipes = async (query) => {
